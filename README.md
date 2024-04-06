@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Piotr
 - 👀 I’m Software Engineer also interested in ML, AI and Data Engineering
-- 🌱 I’m currently using Python, Django and JavaScript for FullStack development
+- 🌱 I’m currently using Python, Django and JS/TS for FullStack development
+- 🌱 Developing my skills in Golang, DevOps oriented skills and React
 - 📫 How to reach me: pkw592@gmail.com
