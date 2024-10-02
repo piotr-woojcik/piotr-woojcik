@@ -4,7 +4,3 @@
 - 🌱 Developing my DevOps oriented skills (Docker, Kubernetes, CI/CD)
 - 📫 How to reach me: pkw592@gmail.com
 
-<a href="https://github.com/piotr-woojcik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piotr-woojcik&show_icons=true&locale=en&layout=compact" alt="piotr-woojcik" />
-</a>
-
